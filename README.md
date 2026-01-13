@@ -1,3 +1,36 @@
+# IBM Data Analyst Capstone  
+Job Market & Business Data Analytics using Python, APIs, and Web Scraping
+
+---
+
+## About  
+This project is part of the IBM Data Analyst Professional Certificate. The goal was to collect, clean, and analyze real-world job market data using APIs and web scraping to understand demand, skills, and trends in data-related roles.
+
+The project follows an end-to-end analytics workflow from data collection to insight generation, similar to how business analysts and data teams operate in industry.
+
+---
+
+## Business Objective  
+To analyze job market data and identify:
+- The most in-demand data roles
+- The most frequently required skills
+- Trends in hiring across industries
+
+This information can be used by students, hiring managers, and training providers to make data-driven decisions.
+
+---
+
+## Data Sources  
+The data was collected using:
+- Public job posting APIs  
+- Web scraping of job listing websites  
+
+The raw data includes job titles, required skills, company names, and locations.
+
+---
+
+## Project Structure  
+
 
 Each module represents a stage in the analytics pipeline.
 
@@ -44,4 +77,15 @@ These insights help understand how the job market values different skills and ro
 
 1. Clone the repository  
 2. Install required libraries  
+3. Open Jupyter Notebook  
+4. Run notebooks inside each module in order
+
+---
+
+## Why This Project Matters  
+
+This project simulates how data analysts collect external data, clean it, and extract business insights. It demonstrates skills that are directly relevant to analytics roles in hiring, workforce planning, and market research.
+
+---
+
 
